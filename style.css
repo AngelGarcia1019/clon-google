@@ -11,7 +11,7 @@ body {
   margin: 0 0;
 }
 
-.header {
+.header-container {
   display: flex;
   justify-content: end;
   padding-right: 10px;
@@ -177,7 +177,7 @@ body {
   border: 1px solid #9aa0a6;
 }
 
-#section-lenguage {
+#main-lenguage {
   margin: 10px auto;
   display: flex;
   align-items: center;
